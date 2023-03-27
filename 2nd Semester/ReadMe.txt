@@ -32,3 +32,7 @@
 
 17. Двухфазная сортировка - twoPhaseSort
 
+18. Линейный поиск, интерполяционный поиск - Search
+
+19. Поиск Бойера-Мура и Кнута-Морриса-Пратта - The search for Boyer-Moore and Knuth-Morris-Pratt
+
