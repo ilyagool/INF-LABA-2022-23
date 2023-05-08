@@ -37,3 +37,5 @@
 19. Поиск Бойера-Мура и Кнута-Морриса-Пратта - The search for Boyer-Moore and Knuth-Morris-Pratt
 
 20. Хэш таблицы -  Hash
+
+Лаб. работы по классам - Classes
